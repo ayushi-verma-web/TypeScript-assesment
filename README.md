@@ -1,3 +1,10 @@
+# Rick & Morty Info App
+
+This is a simple TypeScript project using Vite, displaying paginated Rick & Morty character data.
+
+🚀 **Live Demo**: [rickmortyinfoapp.netlify.app](https://rickmortyinfoapp.netlify.app)
+
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
